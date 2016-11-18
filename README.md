@@ -5,3 +5,7 @@ Contents:
 - Distributed Learning
 
 - Parallel Learning
+
+- Quantum Learning
+
+- Reinforcement Learning
